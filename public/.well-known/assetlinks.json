@@ -5,7 +5,7 @@
     ],
     "target": {
       "namespace": "android_app",
-      "package_name": "com.example.trackt",
+      "package_name": "com.trackt.app",
       "sha256_cert_fingerprints": [
         "92:0A:C7:41:79:A2:A0:20:30:3C:50:8D:93:2D:12:A1:50:3C:E4:D0:7F:78:0E:F2:3C:D1:25:6B:B8:06:2B:38"
       ]
